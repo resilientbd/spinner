@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="submit">Submit</string>
+    <string-array name="title_item">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Flutter</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+    </string-array>
+</resources>
